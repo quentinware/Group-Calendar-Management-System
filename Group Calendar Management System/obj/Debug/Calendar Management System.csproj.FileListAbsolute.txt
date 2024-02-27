@@ -1,0 +1,62 @@
+C:\Users\quentin_patterson\Documents\Calendar Management System\bin\Debug\Calendar Management System.exe.config
+C:\Users\quentin_patterson\Documents\Calendar Management System\bin\Debug\Calendar Management System.exe
+C:\Users\quentin_patterson\Documents\Calendar Management System\bin\Debug\Calendar Management System.pdb
+C:\Users\quentin_patterson\Documents\Calendar Management System\obj\Debug\Calendar Management System.csproj.AssemblyReference.cache
+C:\Users\quentin_patterson\Documents\Calendar Management System\obj\Debug\Calendar_Management_System.Properties.Resources.resources
+C:\Users\quentin_patterson\Documents\Calendar Management System\obj\Debug\Calendar Management System.csproj.GenerateResource.cache
+C:\Users\quentin_patterson\Documents\Calendar Management System\obj\Debug\Calendar Management System.csproj.CoreCompileInputs.cache
+C:\Users\quentin_patterson\Documents\Calendar Management System\obj\Debug\Calendar Management System.exe
+C:\Users\quentin_patterson\Documents\Calendar Management System\obj\Debug\Calendar Management System.pdb
+C:\Users\quentin_patterson\Documents\Calendar Management System\obj\Debug\Calendar_Management_System.Form1.resources
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Calendar Management System.exe.config
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Calendar Management System.exe
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Calendar Management System.pdb
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.AssemblyReference.cache
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Form1.resources
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Properties.Resources.resources
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.GenerateResource.cache
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.CoreCompileInputs.cache
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.exe
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.pdb
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Form2.resources
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Form3.resources
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Google.Protobuf.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\ZstdNet.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\BouncyCastle.Crypto.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Ubiety.Dns.Core.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\System.Memory.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\System.Buffers.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\K4os.Compression.LZ4.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\K4os.Hash.xxHash.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\System.Numerics.Vectors.dll
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\MySql.Data.xml
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.exe.config
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.CopyComplete
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Calendar Management System.exe.config
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Calendar Management System.exe
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Calendar Management System.pdb
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\MySql.Data.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Google.Protobuf.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\ZstdNet.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\BouncyCastle.Crypto.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\Ubiety.Dns.Core.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\System.Memory.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\System.Buffers.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\K4os.Compression.LZ4.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\K4os.Hash.xxHash.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\System.Numerics.Vectors.dll
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\MySql.Data.xml
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.AssemblyReference.cache
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.exe.config
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Form1.resources
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Form2.resources
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Form3.resources
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar_Management_System.Properties.Resources.resources
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.GenerateResource.cache
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.CoreCompileInputs.cache
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.csproj.CopyComplete
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.exe
+E:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\obj\Debug\Calendar Management System.pdb
+D:\CSC 340 2_6_2023\Calendar Management System\Calendar Management System\bin\Debug\MySql.Data.dll
